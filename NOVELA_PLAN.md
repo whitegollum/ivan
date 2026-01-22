@@ -59,3 +59,12 @@ Propuesta inicial: **20 capítulos + epílogo**.
 - 2026-01-16: se redacta el primer borrador de `CAP_08.md`.
 - 2026-01-16: se redacta el primer borrador de `CAP_09.md`.
 - 2026-01-16: se redacta el primer borrador de `CAP_10.md`.
+- 2026-01-16: se redacta el primer borrador de `CAP_11.md`.
+- 2026-01-16: se redacta el primer borrador de `CAP_12.md`.
+- 2026-01-16: se redacta el primer borrador de `CAP_13.md`.
+- 2026-01-16: se redacta el primer borrador de `CAP_14.md`.
+- 2026-01-16: se redacta el primer borrador de `CAP_15.md`.
+- 2026-01-16: se redacta el primer borrador de `CAP_16.md`.
+- 2026-01-16: se redacta el primer borrador de `CAP_17.md`.
+- 2026-01-16: se redacta el primer borrador de `CAP_18.md`.
+- 2026-01-16: se redacta el primer borrador de `CAP_19.md`.
