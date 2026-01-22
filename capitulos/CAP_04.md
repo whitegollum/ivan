@@ -6,7 +6,7 @@ Las luces amarillas de la escalera no parpadeaban; respiraban. Como si el ayunta
 
 Noa bajaba delante de mí, con la mano en su cuello. La herida que le había hecho el papel era superficial, pero el rojo sobre su piel se veía demasiado vivo para una simple rozadura. A cada paso, el sello de **RECARGO POR RUIDO** en su mejilla parecía inflamarse un poco más, como si la tinta siguiera trabajando.
 
-Yo llevaba el antebrazo con dos cortes finos, de esos que no parecen gran cosa hasta que te acuerdas de que el papel es, literalmente, un cuchillo barato. Y en el bolsillo, el carné provisional de CIVIS me picaba como si fuera una etiqueta pegada en la piel.
+Llevaba dos cortes finos en el antebrazo, de esos que no parecen gran cosa hasta que te acuerdas de que el papel es, literalmente, un cuchillo barato. Y en el bolsillo, el carné provisional de CIVIS me picaba como si fuera una etiqueta pegada en la piel.
 
 En mi móvil, el icono del sello gris me miraba: **Subsanación menor (1)**.
 
@@ -22,13 +22,9 @@ Nos recibió música.
 
 Una musiquita suave, de ascensor, de “su llamada es importante para nosotros”. Sólo que no venía de un altavoz. Venía del aire. De la moqueta. Del techo. Como si el edificio estuviera tarareando mientras te desangras.
 
-La sala era un call center.
+La sala era un call center infinito. Cubículos en filas, luces fluorescentes que no terminaban, pantallas encendidas con el brillo de pecera, y un olor que me dio ganas de vomitar: toner caliente y café recalentado.
 
-Un call center infinito, claro. Cubículos en filas, luces fluorescentes que no terminaban, pantallas encendidas con el brillo de pecera, y un olor que me dio ganas de vomitar: toner caliente y café recalentado.
-
-En cada puesto había una silla y un auricular.
-
-En muchos, había alguien sentado.
+En cada puesto, una silla y un auricular. En muchos, alguien sentado.
 
 Gente con chalecos, con camisas, con uniformes. Algunos tenían la cara normal. Otros tenían la cara cubierta por un folio con un sello: **PENDIENTE**, **REQUIERE SUBSANACIÓN**, **NO PROCEDE**.
 
@@ -66,7 +62,7 @@ Noa me miró con la cara de “me estás pidiendo paciencia y tengo una multa ta
 
 —Ya —dije—. Y yo tengo a Nerea en urgencias, en algún sitio, dentro de este… procedimiento. Así que, por favor, no dispares la escopeta hasta saber dónde está el retroceso.
 
-Decir su nombre me hizo daño. Me lo hizo más real. Como si el Sistema pudiera oírlo y apuntar.
+Decir su nombre me dolió; lo hizo más real. Como si el Sistema pudiera oírlo y apuntar.
 
 Noa bajó la mano despacio.
 
@@ -243,7 +239,7 @@ Sajjad levantó una ceja.
 
 —De estar aquí, hablándonos, ayudándonos —dijo Noa—. Nadie hace nada gratis. Menos en un sitio que cobra por respirar.
 
-Sajjad miró alrededor. A los cubículos. A la gente quieta. A un operador con cara normal que tenía los ojos en blanco, moviendo los dedos sobre un teclado apagado como si estuviera escribiendo una vida que ya no existía.
+Sajjad miró alrededor: cubículos, gente quieta, un operador con cara normal con los ojos en blanco, moviendo los dedos sobre un teclado apagado como si escribiera una vida que ya no existía.
 
 —Quiero salir de aquí —dijo Sajjad—. Igual que vosotros. Pero no sólo salir del edificio. Salir del sistema. Romperlo.
 

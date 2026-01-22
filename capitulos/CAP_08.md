@@ -22,7 +22,7 @@ Y el mundo cambió de olor.
 
 Fuera olía a asfalto y papel quemado. Dentro olía a cloro, sudor viejo y miedo fresco. Ese olor de hospital que se te pega en la ropa y te acompaña a casa aunque te duches. Ese olor que te dice: aquí la vida se sostiene con cinta adhesiva.
 
-El vestíbulo de urgencias era enorme. Más grande de lo que recordaba. No porque el hospital hubiera crecido, sino porque la realidad se estaba estirando como en el ayuntamiento: pasillos que deberían medir veinte metros y parecían cien. Techos demasiado altos. Paredes con carteles nuevos, impresos con la misma tipografía limpia de CIVIS:
+El vestíbulo de urgencias era enorme, más grande de lo que recordaba. No porque el hospital hubiera crecido, sino porque la realidad se estaba estirando como en el ayuntamiento: pasillos que deberían medir veinte metros y parecían cien. Techos demasiado altos. Paredes con carteles nuevos, impresos con la misma tipografía limpia de CIVIS:
 
 **PRETRIAJE**  
 **TRIAJE**  
@@ -186,7 +186,7 @@ El plástico de PROTOCOLO vibró.
 
 —Atención al ciudadano —dijo.
 
-Noa golpeó el cristal con la palma, suave, controlándose.
+Noa golpeó el cristal con la palma, suave, conteniéndose.
 
 —Acabamos de venir de ahí —dijo—. Tenemos prioridad. Tenemos cobertura. Tenemos pase. ¿Qué más quieren?
 
@@ -208,9 +208,7 @@ En el sector rojo, los monitores pitaban muy despacio, como si también tuvieran
 
 Nos sentamos en la zona naranja. Noa no dejaba de mirar hacia los pasillos de personal. Sajjad miraba las etiquetas flotantes, intentando entender reglas. Yo miraba mi móvil, esperando un mensaje de Nerea que no podía llegar.
 
-Mi pulsera blanca vibró.
-
-Sí. Vibró.
+Mi pulsera blanca vibró. Sí, vibró.
 
 Sentí un cosquilleo en la muñeca y me llevé la mano al plástico.
 
@@ -254,7 +252,7 @@ Noa apretó los dientes.
 
 —Nos dejan —dije—. Con turno.
 
-Y entonces, al fondo, en el pasillo de personal, vi algo.
+Al fondo, en el pasillo de personal, vi algo.
 
 Una figura con uniforme azul oscuro, caminando rápido. Una mujer con el pelo recogido, una goma del pelo en la muñeca. Una forma de andar que yo conocía. Un giro de cabeza que me golpeó en el pecho como un disparo.
 

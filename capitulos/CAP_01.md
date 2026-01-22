@@ -1,6 +1,6 @@
 # CAP 01 — Turno de noche
 
-El ayuntamiento de madrugada huele a lejía, papel mojado y derrota. Si alguna vez has abierto un cajón viejo y te ha salido el olor de “esto lleva años aquí y nadie va a reconocerlo”, pues eso, pero en tamaño edificio público.
+El ayuntamiento de madrugada huele a lejía, papel mojado y derrota. Si alguna vez has abierto un cajón viejo y te ha salido el olor de “esto lleva años aquí y nadie va a reconocerlo”, pues eso, pero a escala edificio público.
 
 Yo estaba solo en la garita, con una cafetera que hacía ruidos de animal herido y un monitor de CCTV que llevaba semanas pidiéndome la eutanasia a base de líneas verdes y píxeles muertos. En la pared, un póster plastificado decía **“LA SEGURIDAD ES RESPONSABILIDAD DE TODOS”** con la cara sonriente de un tipo que claramente no había hecho un turno de noche en su vida. A mí no me engañaba: la seguridad era responsabilidad mía, y el “de todos” era la parte donde nadie aparecía cuando había bronca.
 
@@ -18,7 +18,7 @@ Le hice un gesto con la mano, como si pudiera leerme a través del cable coaxial
 
 —A ti te da igual el procedimiento, ¿eh? —dije—. Qué envidia.
 
-Mi móvil vibró. No por una notificación, que eso habría sido demasiado moderno para mí. Vibró por el recordatorio que yo mismo me ponía para no olvidarme de que existía vida fuera del edificio: “PAGAR LUZ”. “PAGAR ALQUILER”. “NO MORIR”.
+Mi móvil vibró. No por una notificación, que eso habría sido demasiado moderno para mí, sino por el recordatorio que yo mismo me ponía para no olvidarme de que existía vida fuera del edificio: “PAGAR LUZ”. “PAGAR ALQUILER”. “NO MORIR”.
 
 Lo miré y lo volví a dejar boca abajo, como si con eso pudiera esconder el futuro.
 
@@ -73,7 +73,7 @@ Me quedé mirando aquello como si fuera un chiste de mal gusto.
 
 No tenía cobertura. No tenía wifi. La batería estaba al 68%. Nada cuadraba.
 
-Le di a bloquear. La pantalla no se apagó. Le volví a dar. Nada. Subí el brillo. Bajé el brillo. El “Sistema” seguía ahí, imperturbable, como una multa que no piensa desaparecer porque la insultes.
+Le di a bloquear y la pantalla no se apagó. Volví a darle. Nada. Subí y bajé el brillo. El “Sistema” seguía ahí, imperturbable, como una multa que no piensa desaparecer porque la insultes.
 
 El edificio crujió.
 
@@ -87,7 +87,7 @@ No era un reflejo. No era un piloto. Era un pulso, como un corazón.
 
 Debería haber llamado a la policía. Debería haber hecho lo que dice el manual: “ante cualquier incidencia, notifique al responsable”. Pero el manual no contemplaba que el responsable estuviera, probablemente, en su casa viendo Netflix, mientras su edificio se convertía en… lo que sea que fuese aquello.
 
-Además, no tenía radio. La radio estaba en el cajón. La saqué. Apreté el botón. Nada.
+Además, no tenía radio. Estaba en el cajón: la saqué, apreté el botón. Nada.
 
 —Perfecto —dije—. Esto sí que es continuidad funcional.
 

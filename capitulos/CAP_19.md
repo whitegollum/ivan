@@ -2,7 +2,7 @@
 
 La suspensión cautelar nos dio una hora.
 
-Una hora que sonaba a poco en cualquier vida normal, y a milagro en una ciudad convertida en trámite.
+Una hora que sonaba a poco en cualquier vida normal y a milagro en una ciudad convertida en trámite.
 
 Salimos del Tribunal como si nos persiguiera un incendio. Porque, de alguna forma, nos perseguía: Intervención no necesita correr. Intervención sólo necesita tiempo.
 
@@ -50,7 +50,7 @@ Había puertas con letreros que antes estaban cerradas, ahora abiertas. Y pantal
 
 **SUSPENDIDO POR RESOLUCIÓN**
 
-Gente con papeles en la boca sentada en sillas, como si el sistema hubiera dejado de apretar un segundo. Como si hubiera soltado la cuerda para recolocar el nudo.
+Gente con papeles en la boca sentada en sillas, como si el sistema hubiera dejado de apretar un segundo, como si hubiera soltado la cuerda para recolocar el nudo.
 
 Sajjad señaló un pasillo.
 
@@ -332,7 +332,5 @@ Del otro lado, el interventor golpeó el cristal con una grapadora.
 
 Pero el cristal ya no le obedecía igual.
 
-La suspensión cautelar era un candado de una hora.
-
-Y nosotros acabábamos de meterle dentro una nulidad.
+La suspensión cautelar era un candado de una hora. Y nosotros acabábamos de meterle dentro una nulidad.
 

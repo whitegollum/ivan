@@ -12,7 +12,7 @@ Todas tenían números.
 
 Y el número 0 latía en rojo al fondo, como un semáforo que te odia.
 
-Mi móvil vibró otra vez. No porque yo quisiera. Vibró como si alguien, desde dentro del aparato, me estuviera dando golpecitos con un bolígrafo.
+Mi móvil vibró otra vez, como si alguien, desde dentro del aparato, me estuviera dando golpecitos con un bolígrafo.
 
 > **SISTEMA**: TURNO ASIGNADO  
 > **SUJETO**: Iván Rueda (no verificado)  
@@ -56,7 +56,7 @@ Volví a la fila. O lo intenté.
 
 La fila ya no estaba donde la había dejado.
 
-Las sillas se habían girado solas, formando otra serpiente, y yo me encontré, de repente, más atrás de lo que recordaba. No un poco. Muy atrás. Como si el despacho hubiera dicho: “¿Te crees listo? Pues a esperar”.
+Las sillas se habían girado solas, formando otra serpiente, y yo me encontré, de repente, más atrás de lo que recordaba. No un poco: muy atrás. Como si el despacho hubiera dicho: “¿Te crees listo? Pues a esperar”.
 
 Y ahí fue cuando la oí.
 

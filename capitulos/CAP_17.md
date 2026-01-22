@@ -1,6 +1,6 @@
 # CAP 17 — Competencia
 
-La ventanilla de **ADMISIÓN** tenía una balanza, un sello, y un agujerito redondo para hablar.
+La ventanilla de **ADMISIÓN** tenía una balanza, un sello y un agujerito redondo para hablar.
 
 El agujerito redondo era lo más ofensivo de todo: la idea de que, en un tribunal, la humanidad cabe por un círculo de dos centímetros.
 
@@ -146,11 +146,9 @@ Noa parpadeó.
 
 —Significa “no te lo doy todavía” con perfume jurídico —le devolvió el Rata.
 
-La entidad se quedó quieta. Su sello de “LETRADO” vibró un segundo, como una duda.
+La entidad se quedó quieta. El sello de “LETRADO” vibró un segundo, como una duda.
 
-Entonces oí una risa suave, atrás.
-
-Conocida.
+Entonces oí una risa suave, atrás. Conocida.
 
 —Qué bonito —dijo una voz—. Un ciudadano intentando usar la ley contra la ley.
 

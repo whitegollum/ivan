@@ -2,7 +2,7 @@
 
 La **SALA: COMPETENCIA** era un teatro de madera y fluorescente.
 
-Bancos como los de una sala de juicios, sí, pero con tiras de tickets pegadas debajo. Un estrado al fondo, sí, pero en vez de martillo había un sello. Y en el centro, iluminada como si fuera sagrada, una balanza enorme de metal, con dos platos.
+Bancos como los de una sala de juicios, sí, pero con tiras de tickets pegadas debajo. Un estrado al fondo, sí, pero en vez de martillo, un sello. Y en el centro, iluminada como si fuera sagrada, una balanza enorme de metal, con dos platos.
 
 Encima de la balanza, un reloj digital:
 
@@ -10,9 +10,7 @@ Encima de la balanza, un reloj digital:
 
 El tiempo de la vista.
 
-En el estrado no había juez.
-
-Había una entidad con toga.
+En el estrado no había juez. Había una entidad con toga.
 
 En vez de cara llevaba una placa de metacrilato con letras impresas:
 
@@ -128,9 +126,7 @@ El Rata levantó la mano, rápido.
 
 —Nulidad —dijo.
 
-El aire pareció detenerse.
-
-—Nulidad de pleno derecho por conflicto de interés —dijo el Rata, cada palabra como un martillazo—. Si el tribunal depende de CIVIS, no puede custodiar prueba contra CIVIS. Eso es indefensión estructural. Y la indefensión invalida competencia.
+El aire pareció detenerse. —Nulidad de pleno derecho por conflicto de interés —dijo el Rata, cada palabra como un martillazo—. Si el tribunal depende de CIVIS, no puede custodiar prueba contra CIVIS. Eso es indefensión estructural. Y la indefensión invalida competencia.
 
 Damián sonrió como si estuviera disfrutando.
 
@@ -198,9 +194,7 @@ Lo leyó en voz alta, sin emoción, como quien lee una lista de compras:
 
 —“El Tribunal de Continuidad será automatizado por CIVIS en caso de contingencia. La custodia documental recaerá en Intervención, módulo CIVIS.” —levantó la mirada—. Eso significa que el tribunal no es independiente. Es CIVIS con toga.
 
-Se hizo un silencio pesado.
-
-Damián apretó la mandíbula.
+Se hizo un silencio pesado. Damián apretó la mandíbula.
 
 —Eso es interpretación —dijo.
 
@@ -208,9 +202,7 @@ Celia lo miró por primera vez.
 
 —Eso es letra —dijo—. Lo demás son excusas.
 
-El Magistrado levantó una mano.
-
-En el aire apareció texto, enorme:
+El Magistrado levantó una mano. En el aire apareció texto, enorme:
 
 **CONFLICTO DE INTERÉS — VERIFICADO**
 
@@ -244,9 +236,7 @@ En el panel apareció un contador:
 
 **VALORANDO…**
 
-La sala se enfrió.
-
-Mi móvil vibró, como si CIVIS estuviera escuchando.
+La sala se enfrió. Mi móvil vibró, como si CIVIS estuviera escuchando.
 
 > **CIVIS**: Advertencia  
 > Procedimiento cuestionado.  
@@ -264,9 +254,7 @@ En el aire apareció:
 
 **SUSPENSIÓN CAUTELAR — TEMPORAL (01:00)**
 
-Yo sentí que el corazón me volvía al cuerpo.
-
-Una hora.
+Yo sentí que el corazón me volvía al cuerpo. Una hora.
 
 Una hora en la que el nombramiento tenía que parar.
 

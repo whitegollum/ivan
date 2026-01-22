@@ -17,7 +17,7 @@ Nos llevó por el pasillo de RRHH hasta una sala con una puerta gris.
 
 **LOGÍSTICA / TRASLADOS**
 
-Dentro había camillas apiladas, sillas de ruedas, carros de medicación, cajas de guantes, y una pared entera cubierta de mapas del hospital.
+Dentro había camillas apiladas, sillas de ruedas, carros de medicación, cajas de guantes y una pared entera cubierta de mapas del hospital.
 
 Mapas.
 
@@ -27,7 +27,7 @@ Luego vi el detalle.
 
 Los mapas estaban vivos.
 
-No se movían como pantalla. Se movían como papel. Las líneas cambiaban despacio, como si el edificio estuviera redibujándose con un lápiz invisible. Pasillos que aparecían, puertas que desaparecían, flechas que se desplazaban un centímetro cada vez que parpadeabas.
+No se movían como pantalla: se movían como papel. Las líneas cambiaban despacio, como si el edificio estuviera redibujándose con un lápiz invisible. Pasillos que aparecían, puertas que desaparecían, flechas que se desplazaban un centímetro cada vez que parpadeabas.
 
 —Urbanismo —murmuré, sin querer.
 
@@ -111,7 +111,7 @@ La flecha, cuando pasamos por encima, se borró.
 
 —¿La has visto? —dijo Noa, frenando.
 
-Yo miré atrás. Donde había flecha, ahora había blanco.
+Miré atrás: donde había flecha, ahora había blanco.
 
 —Sí —dije—. Nos está guiando… y borrando el camino.
 
@@ -211,7 +211,7 @@ La luz siguió, indiferente.
 
 Seguimos empujando.
 
-El edificio empezó a sonar distinto. No ya a hospital. A obra.
+El edificio empezó a sonar distinto, no ya a hospital, sino a obra.
 
 Martillazos lejanos. Taladros. Metal arrastrándose. Pero no había obreros. El sonido estaba sin origen, como una banda sonora para que te creas que esto tiene sentido.
 
@@ -287,9 +287,7 @@ Pitó amarillo.
 
 Noa empujó la puerta sin pensarlo.
 
-Dentro había archivadores.
-
-Miles.
+Dentro había archivadores. Miles.
 
 Planeros, esos cajones gigantes donde guardan planos. Estanterías con carpetas enormes. Rollos de papel. Y, en el centro, una mesa con un dossier gordo, abierto.
 

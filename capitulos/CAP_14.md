@@ -20,7 +20,7 @@ Tres horas cuarenta y seis minutos de vida prestada.
 
 —Nos movemos —dije.
 
-Noa ya estaba empujando la puerta trasera del cubículo, una salida de servicio que yo no había visto porque aquí las salidas se esconden como las buenas personas.
+Noa ya estaba empujando la puerta trasera del cubículo, una salida de servicio que yo no había visto porque aquí las salidas se esconden como la gente decente.
 
 Salimos a un pasillo estrecho, iluminado por fluorescentes moribundos. Olía a lejía y café recalentado. El hospital normal, el de siempre, con el volumen bajado. Un espejismo.
 
@@ -92,7 +92,7 @@ Sajjad levantó un dedo, señalando “cuidado”.
 
 Yo tragué saliva y me sentí ridículo: un hospital donde hablar era sancionable. Perfecto. Lo más realista del apocalipsis.
 
-El silencio no era ausencia de sonido. Era un sonido en sí mismo, pesado, denso, como si el aire estuviera hecho de papel mojado.
+El silencio no era ausencia de sonido: era un sonido en sí mismo, pesado, denso, como si el aire estuviera hecho de papel mojado.
 
 Pasamos por una sala de espera llena de gente con labios sellados. Literal.
 

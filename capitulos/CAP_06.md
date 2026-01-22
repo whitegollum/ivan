@@ -11,7 +11,7 @@ Entre nosotros y el cartel azul de **URGENCIAS** había un perímetro de vallas 
 
 Noa avanzaba con paso firme, apretando la mandíbula, como si el aire mismo le debiera una explicación. Sajjad caminaba a nuestro lado con los ojos saltando de señal a señal, leyendo el mundo como si fueran líneas de código mal escrito. Yo iba detrás, mirando todo como se mira un callejón cuando no quieres que te roben: con la desconfianza de quien ya sabe que te van a robar, pero al menos quieres elegir por dónde.
 
-Mi móvil vibró otra vez. El mensaje de la misión seguía ahí, clavado como una notificación eterna:
+Mi móvil volvió a vibrar. El mensaje de la misión seguía ahí, clavado como una notificación eterna:
 
 > **MISIÓN OBLIGATORIA**: Informe de incidencias — Zona Sanidad (1)  
 > **RECOMPENSA**: Crédito (1)
@@ -119,7 +119,7 @@ Encima, una lista:
 - Carpeta: 2 clips  
 - Archivador: 1 grapa
 
-Me paré un instante.
+Me paré un segundo.
 
 —¿Podemos… pagar con basura? —pregunté.
 
@@ -245,7 +245,7 @@ Y salió alguien.
 
 No un operador. Un cliente. Un hombre alto con chaqueta de cuero, pelo peinado hacia atrás y una sonrisa demasiado cómoda para un sitio donde la gente se asfixia con formularios. Tenía la muñeca llena de pulseras: verdes, grises, una azul. Y colgando del cuello llevaba una cadena hecha de clips, como un collar.
 
-Nos miró, nos evaluó, y sonrió más.
+Nos miró, nos evaluó y sonrió más.
 
 —Nuevos —dijo, como si estuviera viendo carne fresca en un mercado.
 
@@ -349,7 +349,7 @@ Damián se detuvo en la puerta.
 
 Y se fue.
 
-Nos quedamos los tres en silencio, con la sensación de que la ciudad acababa de enseñarnos los dientes humanos, que eran peores que los de grapa.
+Nos quedamos en silencio, con la sensación de que la ciudad acababa de enseñarnos los dientes humanos, peores que los de grapa.
 
 Noa respiró hondo.
 
@@ -386,7 +386,7 @@ Noa apretó la mandíbula y entró primera, porque claro.
 
 El pasillo olía a papel húmedo y a miedo viejo.
 
-Avanzamos despacio. A cada lado, los archivadores vibraban un poco, como si dentro hubiera algo golpeando muy suave. Como uñas. Como dientes.
+Avanzamos despacio. A cada lado, los archivadores vibraban, como si dentro algo golpeara muy suave. Uñas. Dientes.
 
 —¿Cómo se “notifica” a un moroso? —susurré.
 
@@ -484,9 +484,7 @@ Noa se liberó y se lanzó al hombre, arrancándole el sobre de la boca con una 
 
 El hombre tosió, escupiendo saliva y papel.
 
-El sobre chilló.
-
-Sí. Un sonido de papel rasgado, agudo, como el de la criatura del Registro.
+El sobre chilló, un sonido de papel rasgado, agudo, como el de la criatura del Registro.
 
 Noa lo tiró al suelo y lo pisó.
 

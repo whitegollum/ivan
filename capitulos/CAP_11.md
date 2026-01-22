@@ -4,7 +4,7 @@ El pasillo de **CRÍTICOS** tenía la limpieza de un quirófano y la mala leche 
 
 Paredes blancas, sí, pero no blancas de hospital: blancas de papel recién puesto. Demasiado lisas. Demasiado nuevas. Como si CIVIS hubiera decidido que aquí la vida no debía dejar manchas.
 
-El suelo imprimía flechas delante de nuestros pies. Una a una. *Clac.* Aparecía una flecha. Un metro más allá, otra. Y cuando la pisabas, se apagaba, como un pedido entregado.
+El suelo imprimía flechas delante de nuestros pies. Una a una. *Clac*. Aparecía una flecha. Un metro más allá, otra. Y cuando la pisabas, se apagaba, como un pedido entregado.
 
 La puerta roja se cerró detrás de nosotros con un sonido seco. Un sello.
 
@@ -14,11 +14,11 @@ Noa se giró por reflejo.
 
 —A mí tampoco —respondí—. Vaya noche de coincidencias.
 
-Sajjad no hablaba. Miraba. Leía. Como si el pasillo fuera un monitor y él buscara el fallo de seguridad con los ojos.
+Sajjad no hablaba: miraba, leía. Como si el pasillo fuera un monitor y él buscara el fallo de seguridad con los ojos.
 
 A la derecha, detrás de un cristal, estaba Nerea.
 
-No en una habitación de pacientes. En una sala de control.
+No en una habitación de pacientes, sino en una sala de control.
 
 Pantallas. Lectores. Impresoras. Un panel enorme con números que subían y bajaban como constantes vitales convertidas en contabilidad. Nerea tenía un auricular puesto —call center de urgencias— y el uniforme manchado de sangre seca. Sus ojos parecían más grandes de lo normal, de tanto no dormir.
 
@@ -42,13 +42,13 @@ Yo hice lo mismo al otro lado.
 
 Piel contra vidrio. Lo único real que quedaba.
 
-Nerea movió apenas los labios:
+Nerea movió apenas los labios.
 
 —Iván. No.
 
 —Nerea… —se me rompió la voz.
 
-Noa se acercó, dura, pero con los ojos clavados en ella.
+Noa se acercó, dura, con los ojos clavados en ella.
 
 —Estamos aquí —dijo—. Te sacamos.
 
@@ -157,7 +157,7 @@ Pero lo que dijo fue:
 
 —Vive. Luego me sacas.
 
-Un pitido largo sonó al final del pasillo, grave, contenido.
+Un pitido largo sonó al final del pasillo, grave y contenido.
 
 En el aire, encima de nuestras cabezas, aparecieron etiquetas nuevas como si alguien las hubiera estampado:
 
@@ -200,7 +200,7 @@ Entramos.
 
 El módulo de auditoría era una oficina.
 
-Una oficina dentro de un hospital dentro de una ciudad convertida en trámite. Cubículos, otra vez. Pantallas verdes, otra vez. Impresoras, otra vez. Y un panel enorme en la pared con números que subían y bajaban.
+Una oficina dentro de un hospital dentro de una ciudad convertida en trámite, otra vez. Cubículos, otra vez. Pantallas verdes, otra vez. Impresoras, otra vez. Y un panel enorme en la pared con números que subían y bajaban.
 
 En el centro del panel, un símbolo:
 

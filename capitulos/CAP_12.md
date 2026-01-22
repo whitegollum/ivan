@@ -10,7 +10,7 @@ Eso era lo peor.
 
 Salían de sus cubículos con la calma de gente que sabe que el pasillo se va a reconfigurar para ellos. Algunos llevaban sellos en la frente. Otros llevaban calculadoras colgando del cuello como crucifijos. Uno tenía una grapadora en la mano, abierta, como una boca.
 
-Noa tiraba de mí del brazo, rápido, sin mirar atrás. Sajjad iba delante, leyendo las flechas que aparecían y desaparecían. Noa corría por instinto. Sajjad corría por patrón.
+Noa tiraba de mí del brazo, rápido, sin mirar atrás. Sajjad iba delante, leyendo las flechas que aparecían y desaparecían. Noa corría por instinto; Sajjad, por patrón.
 
 Yo corría por Nerea.
 
@@ -20,15 +20,15 @@ Mi móvil vibró mientras corríamos:
 > Incidencia: confidencialidad.  
 > Nota: entregue el documento para regularizar.
 
+El recargo rojo seguía parpadeando en la esquina de la pantalla, como un faro para Intervención.
+
 Sajjad miró mi bolsillo interior un segundo, como si pudiera ver el pliego a través de la tela.
 
 —No lo sueltes —dijo, sin mirarme.
 
 No pude contestar. Sólo apreté el bolsillo con el codo, como si el papel fuera un órgano.
 
-El pasillo de salida ya no era un pasillo.
-
-Las paredes de cubículos se movieron, girando sobre ruedas ocultas, formando una serpiente. Donde antes había un recto, ahora había un laberinto. CIVIS imprimiendo urbanismo a toda velocidad, pero en versión oficina.
+El pasillo de salida ya no era un pasillo. Las paredes de cubículos se movieron, girando sobre ruedas ocultas, formando una serpiente. Donde antes había un recto, ahora había un laberinto. CIVIS imprimiendo urbanismo a toda velocidad, pero en versión oficina.
 
 Una flecha apareció delante de Sajjad:
 
@@ -128,7 +128,7 @@ Sajjad abrió una caja de clips y se metió un puñado en el bolsillo.
 
 —Por si acaso —dijo.
 
-Noa abrió una de grapas, igual.
+Noa abrió una de grapas.
 
 —Por si acaso —repitió, pero su tono era “por si tengo que coserle la boca a alguien”.
 
@@ -144,9 +144,7 @@ Sajjad se detuvo.
 
 Noa empujó la puerta.
 
-Dentro no había cadáveres.
-
-Había papeles.
+Dentro no había cadáveres. Había papeles.
 
 Pilas de expedientes en el suelo, en estanterías, en cajas rotas. Historias clínicas. Partes de incidencia. Contratos. Consentimientos. Todo lo que en un hospital debería estar en un servidor, aquí estaba en papel, como si CIVIS necesitara que lo tocaras para que contara.
 
@@ -176,9 +174,7 @@ En la parte inferior del panel, un encabezado:
 
 **ENTIDADES LOCALES — VACANTES**
 
-No entendí la frase al principio.
-
-Luego mi estómago la entendió por mí.
+No entendí la frase al principio. Luego mi estómago la entendió por mí.
 
 —¿Entidades? —murmuré, sin voz.
 

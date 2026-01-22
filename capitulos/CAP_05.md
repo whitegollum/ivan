@@ -1,8 +1,6 @@
 # CAP 05 — Premio con anzuelo
 
-La ventanilla de accesos no era una ventanilla.
-
-Era un torno.
+La ventanilla de accesos no era una ventanilla. Era un torno.
 
 Un torno de los que ponen en el metro cuando quieren recordarte que “libre circulación” significa “paga primero”. Sólo que este tenía forma de boca: tres barras metálicas como mandíbulas, y en el centro un lector negro que parecía un ojo cerrado.
 
@@ -104,7 +102,7 @@ El mensaje apareció:
 
 —Tres —repetí, y noté que se me aflojaba un nudo.
 
-Sajjad soltó el aire, como si también hubiera estado conteniendo.
+Sajjad soltó el aire, como si también hubiera estado conteniéndolo.
 
 —Vale —dijo—. Ahora viene el anzuelo.
 
@@ -138,7 +136,7 @@ La pantalla respondió sola, sin que nadie tocara nada:
 
 Noa apretó la mandíbula.
 
-—Colaboración mínima. —repitió—. La palabra favorita de la gente que luego te pide el máximo.
+—Colaboración mínima —repitió—. La palabra favorita de la gente que luego te pide el máximo.
 
 Yo pensé en Nerea otra vez. En el hospital. En la posibilidad de que, mientras yo discutía con un formulario, ella estuviera sola, en un sitio que olía a dientes, intentando salvar a alguien con una IA mirando por encima del hombro.
 
@@ -177,7 +175,7 @@ Noa hizo una mueca.
 
 —¿Qué? —pregunté.
 
-—Nada —dijo—. Sólo… aprieta. Como si quisiera recordarme que la llevo.
+—Nada —dijo—. Sólo aprieta. Como si quisiera recordarme que la llevo.
 
 Sajjad se puso la suya sin decir nada. Yo me puse la mía y sentí el mismo apretón. No dolor, pero sí presión. Un “no te olvides de mí” alrededor del hueso.
 

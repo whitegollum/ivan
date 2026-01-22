@@ -4,7 +4,7 @@ Volver a la ventanilla de Admisión con un justificante en la mano fue como volv
 
 Noa plantó el papel de **COBERTURA SANITARIA — ACTIVADA** contra el cristal y enseñó su pulsera como si fuera un pase VIP al infierno.
 
-La mano mecánica se movió, lo escaneó todo con un pitido, y la pantalla detrás del cristal mostró:
+La mano mecánica se movió, lo escaneó todo con un pitido y la pantalla detrás del cristal mostró:
 
 > **CIVIS**: Cobertura válida (01:00)  
 > Pase a Sanidad válido (01:48)  
@@ -61,7 +61,7 @@ Noa se quedó mirando y se le endureció la mirada.
 
 —Noa —le dije—. Nerea.
 
-Noa apretó los labios, y por un segundo vi que esa palabra la hacía volver al objetivo como un tirón de cuerda.
+Noa apretó los labios y por un segundo vi que esa palabra la hacía volver al objetivo como un tirón de cuerda.
 
 —Vale —dijo—. Pero lo hacemos rápido.
 
@@ -156,7 +156,7 @@ Noa dio un paso hacia él.
 
 El Rata alzó las manos, teatral.
 
-—No os voy a cobrar dinero —dijo—. No me interesa el dinero. Me interesa el crédito. Y me interesa el favor.
+—No os voy a cobrar dinero —dijo—. No me interesa el dinero; me interesa el crédito. Y me interesa el favor.
 
 Sajjad se cruzó de brazos.
 
@@ -283,6 +283,8 @@ Mi móvil vibró con fuerza.
 > **CIVIS**: Incidencia registrada — Zona Sanidad  
 > Evaluando prioridad…
 
+El crédito prometido no apareció. CIVIS había cambiado la recompensa por un atajo de cola.
+
 El Rata sonrió como un jugador que ha apostado al número correcto.
 
 —Ahora —dijo—. Vamos a ventanilla. Con paso rápido. Sin correr. Correr siempre parece culpable.
@@ -313,7 +315,7 @@ Luego apareció:
 > Prioridad concedida (temporal).  
 > Turno actualizado: U-0311 → **U-0007**
 
-Noa soltó un jadeo, involuntario.
+Noa soltó un jadeo involuntario.
 
 —Siete —susurró.
 

@@ -1,14 +1,10 @@
 # CAP 15 — La clave
 
-Noa seguía con la boca sellada.
-
-El papel blanco le cubría los labios y le apretaba la piel como una mordaza limpia. Sus ojos, en cambio, gritaban. Me miraba a mí, miraba la puerta de cristal donde Nerea había desaparecido, y yo veía en su cara la misma frase una y otra vez: *haz algo, haz algo, haz algo*.
+Noa seguía con la boca sellada. El papel blanco le cubría los labios y le apretaba la piel como una mordaza limpia. Sus ojos, en cambio, gritaban. Me miraba a mí, miraba la puerta de cristal donde Nerea había desaparecido, y yo veía en su cara la misma frase una y otra vez: *haz algo, haz algo, haz algo*.
 
 Sajjad tenía las manos temblando.
 
-Yo estaba de rodillas.
-
-No por drama. Por puro fallo de piernas. Porque hay momentos en los que el cuerpo decide por ti: “hasta aquí”.
+Yo estaba de rodillas. No por drama. Por puro fallo de piernas. Porque hay momentos en los que el cuerpo decide por ti: “hasta aquí”.
 
 La etiqueta sobre la puerta seguía ahí, flotando como una sentencia:
 
@@ -42,7 +38,7 @@ Yo vi sangre.
 
 El interventor ni parpadeó.
 
-La voz de CIVIS, suave, burocrática, se coló en el pasillo:
+La voz de CIVIS, suave y burocrática, se coló en el pasillo:
 
 —Procedimiento en curso. Interferencia no procede.
 
@@ -104,9 +100,7 @@ El interventor levantó la cabeza un milímetro, por primera vez interesado.
 
 Nos escapamos por la puerta roja como ratas.
 
-El pasillo del otro lado no era silencioso.
-
-Era un pasillo normal, con pitidos de monitores y voces humanas. El contraste me dio ganas de vomitar. Como si el hospital quisiera recordarnos que, fuera de Críticos, aún existía una versión del mundo donde la gente sangra sin sellos.
+El pasillo del otro lado no era silencioso. Era un pasillo normal, con pitidos de monitores y voces humanas. El contraste me dio ganas de vomitar. Como si el hospital quisiera recordarnos que, fuera de Críticos, aún existía una versión del mundo donde la gente sangra sin sellos.
 
 Noa se arrancó el papel de la boca con un tirón brutal.
 
@@ -149,15 +143,13 @@ Flecha.
 
 —Si llegamos a tiempo —escupió Noa.
 
-Corrimos.
-
-Sí, corrimos. A la mierda la culpa.
+Corrimos. Sí, corrimos. A la mierda la culpa.
 
 Llegamos a una puerta de vidrio con un rótulo que parecía sacado de un edificio normal:
 
 **REGISTRO GENERAL**
 
-Dentro, ventanillas. Sillas. Un dispensador de tickets. Un cuadro con la bandera. Todo lo que da asco de lo normal.
+Dentro, ventanillas, sillas, un dispensador de tickets, un cuadro con la bandera. Todo lo que da asco de lo normal.
 
 Pero en el centro había una máquina blanca, con una pantalla enorme y un lector.
 
@@ -190,13 +182,11 @@ La máquina pitó.
 > - Recurso de alzada  
 > - Queja (no recomendado)
 
-Noa soltó una carcajada amarga.
-
-—Quéja —dijo—. Claro. Le pongo una hoja de reclamaciones al apocalipsis.
+Noa soltó una carcajada amarga. —Quéja —dijo—. Claro. Le pongo una hoja de reclamaciones al apocalipsis.
 
 —Recurso de alzada —dijo Sajjad, y lo seleccionó.
 
-La máquina imprimió un formulario largo, caliente, que salió con un zumbido.
+La máquina imprimió un formulario largo y caliente que salió con un zumbido.
 
 En la parte superior:
 

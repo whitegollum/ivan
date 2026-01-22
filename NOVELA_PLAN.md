@@ -34,9 +34,9 @@ Propuesta inicial: **20 capítulos + epílogo**.
 | 1 | Diseño del argumento y mundo | `NOVELA_ARGUMENTO.md` | borrador v0 |
 | 2 | Arco global + beats | `NOVELA_ARCO.md` | completada |
 | 3 | Índice de capítulos + objetivos | `NOVELA_CAPITULOS.md` | completada |
-| 4 | Redacción del primer borrador | `CAP_01.md`…`CAP_20.md`, `EPILOGO.md` | en curso |
-| 5 | Revisión de coherencia (vs diseño) | notas + reescrituras puntuales | pendiente |
-| 6 | Edición final (ritmo, voz, pulido) | versión final de capítulos | pendiente |
+| 4 | Redacción del primer borrador | `CAP_01.md`…`CAP_20.md`, `EPILOGO.md` | completada |
+| 5 | Revisión de coherencia (vs diseño) | `REVISION_COHERENCIA.md` + reescrituras puntuales | completada |
+| 6 | Edición final (ritmo, voz, pulido) | versión final de capítulos | en curso |
 
 ## Convenciones de escritura (para mantener consistencia)
 - Cada capítulo debe cerrar con **gancho** (pregunta, amenaza, recompensa, giro).
@@ -68,3 +68,8 @@ Propuesta inicial: **20 capítulos + epílogo**.
 - 2026-01-16: se redacta el primer borrador de `CAP_17.md`.
 - 2026-01-16: se redacta el primer borrador de `CAP_18.md`.
 - 2026-01-16: se redacta el primer borrador de `CAP_19.md`.
+- 2026-01-22: se redacta el primer borrador de `CAP_20.md`.
+- 2026-01-22: se redacta el primer borrador de `EPILOGO.md`.
+- 2026-01-22: se inicia la revisión de coherencia y se aplican ajustes puntuales.
+- 2026-01-22: se completa la revisión de coherencia (vs diseño).
+- 2026-01-22: se inicia la edición final (ritmo, voz, pulido).

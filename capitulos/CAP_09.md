@@ -6,7 +6,7 @@ Nos llamaron como te llaman en un sitio donde tu nombre importa menos que tu cas
 
 No fue una voz humana. Fue la misma voz neutra que te dice “tome asiento” mientras te quitan el tiempo de vida por minutos.
 
-Noa se levantó la primera. Sajjad y yo detrás, como si nos hubieran atado con cuerda invisible. Crucé la zona naranja y sentí cómo mi etiqueta flotante —esa mierda que el aire escribía sobre tu cabeza— intentaba ponerse roja otra vez. Me mordí la lengua y caminé sin correr, porque correr aquí era igual que gritar: una forma de declararte culpable.
+Noa se levantó la primera. Sajjad y yo detrás, como si nos hubieran atado con una cuerda invisible. Crucé la zona naranja y sentí cómo mi etiqueta flotante —esa mierda que el aire escribía sobre tu cabeza— intentaba ponerse roja otra vez. Me mordí la lengua y caminé sin correr, porque correr aquí era igual que gritar: una forma de declararte culpable.
 
 El pasillo hacia triaje estaba flanqueado por biombos. Biombos de tela blanca, de hospital, pero con letras impresas en vertical, como marcas de agua:
 
@@ -28,7 +28,7 @@ Noa tragó saliva.
 
 —Aquí sí —dije, y me odié por lo rápido que me salía ya el cinismo.
 
-Una enfermera detrás del mostrador levantó la vista. Era joven, pelo recogido, ojeras. Humana. O lo bastante humana como para parecerlo.
+Una enfermera detrás del mostrador levantó la vista. Era joven, pelo recogido y ojeras. Humana. O lo bastante humana como para parecerlo.
 
 —Carnés y pulseras —dijo, sin saludo.
 
@@ -85,7 +85,7 @@ La enfermera me observó un segundo, quizá buscando mentira.
 
 —Bien —dijo—. Entonces esto es ansiedad aguda por incidente masivo. Os pondría amarillo, pero estáis en naranja por saturación.
 
-Le di una risa sin humor.
+Solté una risa sin humor.
 
 —¿Saturación? —murmuré—. Claro. El hospital saturado. La historia de siempre, pero con monstruos.
 
@@ -388,6 +388,8 @@ Mi móvil vibró con fuerza.
 > Tareas asignables: sí
 >
 > **RECOMPENSA**: Pase interno (AZUL)
+
+En mi pantalla, los temporizadores de cobertura y pase dejaron de contar: el alta de personal los absorbió. Ya no éramos usuarios; éramos recurso.
 
 Mi pulsera blanca vibró y la tinta térmica cambió, imprimiendo una palabra nueva sobre el plástico:
 

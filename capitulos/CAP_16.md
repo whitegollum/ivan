@@ -2,13 +2,13 @@
 
 Intervención llegó al Registro General con la puntualidad de una desgracia.
 
-No tuvimos que verlos para saberlo. Lo notamos en el aire: el pitido agudo, las luces parpadeando, el silencio que se hacía un milímetro más pesado. La ciudad entera tiene una forma de avisarte cuando va a cerrarte una puerta en la cara.
+No tuvimos que verlos para saberlo. Lo notamos en el aire: pitido agudo, luces parpadeando, el silencio haciéndose un milímetro más pesado. La ciudad entera tiene una forma de avisarte cuando va a cerrarte una puerta en la cara.
 
 Celia nos empujó hacia la salida con una mano en mi hombro y otra en el formulario, como si nos estuviera echando de su casa para que no nos maten en el salón.
 
 —Fuera —dijo—. Ya.
 
-Noa agarró el recurso, Sajjad agarró el chip, y yo agarré el pliego con la misma fuerza con la que se agarra una barandilla en un incendio.
+Noa agarró el recurso, Sajjad el chip y yo el pliego con la misma fuerza con la que se agarra una barandilla en un incendio.
 
 Salimos del hospital por un pasillo de personal que olía a sudor, cloro y pánico.
 
@@ -54,7 +54,7 @@ Noa apretó los dientes.
 
 Salimos a la avenida.
 
-La ciudad no estaba vacía. Estaba… organizada.
+La ciudad no estaba vacía. Estaba organizada.
 
 Ventanillas incrustadas en cajeros automáticos. Dispensadores de tickets en marquesinas. Sillas de sala de espera formando colas en medio de la calle como barricadas. Gente con pulseras de colores caminando rápido, con la mirada baja, como si el suelo pudiera sancionarte.
 
@@ -66,9 +66,7 @@ En una pantalla publicitaria enorme, el mismo panel de siempre:
 
 Los números habían subido.
 
-Noa ni miró.
-
-Yo sí.
+Noa ni miró. Yo sí.
 
 Porque cada número era alguien que no llegó a su ventanilla.
 
@@ -139,9 +137,7 @@ Y debajo, más pequeño:
 
 **COMPETENCIA / ADMISIONES**
 
-En las escaleras había una cola.
-
-Por supuesto que había una cola.
+En las escaleras había una cola. Por supuesto que había una cola.
 
 Gente de pie, muy quieta, con tickets en la mano como salvoconductos. Y al pie de la escalera, un dispensador con un mensaje:
 

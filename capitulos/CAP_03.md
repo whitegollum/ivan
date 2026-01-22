@@ -26,7 +26,7 @@ Ella apretó los dientes.
 
 —Pues debería. Hay muchas cosas que deberían —dijo, y la rabia le hacía la voz más baja, más peligrosa—. Dale. Antes de que nos cobre por respirar.
 
-No me hacía ninguna ilusión ser el primero. Pero mi turno era A-0000. Ser el primero era lo único que tenía a favor. Así que acerqué la mano.
+No me hacía ilusión ser el primero. Pero mi turno era A-0000. Ser el primero era lo único que tenía a favor. Así que acerqué la mano.
 
 La tinta estaba fría.
 
@@ -34,9 +34,7 @@ No fría de “está en un sótano”. Fría de “no debería existir así”. 
 
 —¡Hostia! —solté, retirando el dedo.
 
-La almohadilla no me dejó.
-
-Se pegó.
+La almohadilla no me dejó: se pegó.
 
 La tinta subió un milímetro por mi piel, como si buscara poros. El pinchazo se convirtió en succión. Sentí que algo tiraba de mí desde dentro del dedo, como si la almohadilla tuviera boca.
 
@@ -46,9 +44,7 @@ La tinta subió un milímetro por mi piel, como si buscara poros. El pinchazo se
 
 Con un esfuerzo, arranqué el dedo. La yema me ardía. Tenía tinta negra, sí, pero también una línea roja fina, como si me hubiera hecho un microcorte.
 
-La impresora detrás del cristal cobró vida.
-
-No de forma bonita. De forma práctica. Se encendió una lucecita. Empezó a sonar ese zumbido de engranajes que todo el mundo reconoce: el sonido de “esto va a tardar y te va a pedir otra copia”.
+La impresora detrás del cristal cobró vida. No de forma bonita: de forma práctica. Se encendió una lucecita. Empezó a sonar ese zumbido de engranajes que todo el mundo reconoce: el sonido de “esto va a tardar y te va a pedir otra copia”.
 
 Por la bandeja de salida, lentamente, empezó a salir un folio.
 
@@ -141,7 +137,7 @@ El cristal la devolvió igual.
 
 **NO CONSTA**
 
-Noa cerró los ojos un segundo, respirando por la nariz. Tenía el sello rojo de “Recargo por ruido” en la mejilla como una bofetada permanente.
+Noa cerró los ojos un segundo y respiró por la nariz. Tenía el sello rojo de “Recargo por ruido” en la mejilla como una bofetada permanente.
 
 —Vale —dijo—. Vale. Muy bien. Dime qué quieres, Sistema. ¿Mi puta placenta? ¿Una declaración jurada de que nací?
 
@@ -323,7 +319,7 @@ Escribí mi nombre.
 
 Cuando terminé, la hoja se movió sola.
 
-No un poco. Se deslizó fuera de mi mano con un tirón, como si tuviera músculo. Se dobló por la mitad, luego por la mitad otra vez, y de repente era una figura.
+No un poco: se deslizó fuera de mi mano con un tirón, como si tuviera músculo. Se dobló por la mitad, luego por la mitad otra vez, y de repente era una figura.
 
 Una cosa con forma de persona, hecha de mi declaración. Mi firma repetida en la frente como un tatuaje.
 

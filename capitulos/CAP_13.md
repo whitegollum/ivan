@@ -2,7 +2,7 @@
 
 Un conducto de ventilación huele a polvo viejo, metal caliente y decisiones malas.
 
-Yo iba detrás de Noa, porque Noa siempre iba delante, y porque el conducto no dejaba espacio para heroísmos: o gateabas o te quedabas. Sajjad iba en medio, con la espalda rozando el techo, y yo iba cerrando, con el pliego pegado al pecho como si fuera un amuleto, y con la goma del pelo de Nerea enrollada en el dedo.
+Yo iba detrás de Noa, porque Noa siempre iba delante y porque el conducto no dejaba espacio para heroísmos: o gateabas o te quedabas. Sajjad iba en medio, con la espalda rozando el techo, y yo iba cerrando, con el pliego pegado al pecho como si fuera un amuleto, y con la goma del pelo de Nerea enrollada en el dedo.
 
 Por detrás, en algún sitio, se oían golpes amortiguados. No golpes de personas. Golpes de cubículos moviéndose, de puertas reimprimiéndose, de un sistema reorganizando el mundo para encontrarte.
 
@@ -20,7 +20,7 @@ Sajjad, entre los dos, habló sin alzar la voz:
 
 —Y yo —dije—. Pero ahora mismo, si tocamos cosas con las manos, nos arrancan los dedos y nos lo cobran como tasa.
 
-Noa soltó un sonido entre risa y asco, y siguió gateando.
+Noa soltó un sonido entre risa y asco y siguió gateando.
 
 Al cabo de un minuto que pareció una hora, vimos una rejilla de salida. Luz amarilla sucia detrás. Aire más caliente. Olor a café quemado.
 
@@ -28,9 +28,9 @@ Noa empujó la rejilla con el hombro y cayó hacia dentro como una bolsa de hues
 
 Yo salí detrás.
 
-El sitio era una sala de descanso de personal. O lo había sido.
+El sitio era una sala de descanso de personal. O lo había sido alguna vez.
 
-Había una máquina de café, una nevera con una pegatina de “NO TOCAR”, y una mesa llena de vasos de plástico. En la pared, un póster viejo de prevención de riesgos laborales. En el suelo, sin embargo, había expedientes apilados como si alguien hubiera vaciado un archivo por pura desesperación.
+Había una máquina de café, una nevera con una pegatina de “NO TOCAR” y una mesa llena de vasos de plástico. En la pared, un póster viejo de prevención de riesgos laborales. En el suelo, sin embargo, había expedientes apilados como si alguien hubiera vaciado un archivo por pura desesperación.
 
 Encima de la máquina de café, un cartel nuevo, impreso en la tipografía limpia de CIVIS:
 
@@ -40,7 +40,7 @@ Debajo, como si fuera normal:
 
 **CANJE / COMPRA / SUBSANACIÓN**
 
-Sajjad se enderezó, se sacudió el polvo de la ropa y miró alrededor como si acabara de entrar en una tienda.
+Sajjad se enderezó, se sacudió el polvo y miró alrededor como si acabara de entrar en una tienda.
 
 —Bien —dijo—. Esto es lo que necesitamos.
 
@@ -93,7 +93,7 @@ Me acerqué y leí:
 - 5 grapas = 1 crédito  
 - (según disponibilidad)
 
-Conté por encima. Teníamos quizá doce clips y siete grapas, si no me equivocaba.
+Conté por encima: quizá doce clips y siete grapas, si no me equivocaba.
 
 —Nos da para… —empecé.
 
