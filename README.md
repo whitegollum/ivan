@@ -56,6 +56,19 @@ Crear una experiencia de lectura sorprendente y única, donde el lector pueda di
 
 Para generar una nueva novela, abre Codex e introduce el siguiente prompt:
 
+#### Prompt Version 1:
+```markdown
+vamos a proceder a escribir una novela completa para lo que necesitamos un plan de trabajo plan de trabajo que incluya:
+- Estilo literario: analizar cómo es el estilo de escritura de carl el mazmorrero
+  y describirla para que todo el resto de la construcción de la novela siga ese estilo literario
+- Diseño del argumento 
+- La redacción de los distintos capítulos
+- el cálculo de la extensión de los distintos capítulos
+- la implementación de esos capítulos
+- la revisión de la coherencia de la línea estructural versus la planificación 
+```
+
+#### Prompt Version 2:
 ```markdown
 Actúa como un escritor profesional de novelas de fantasía oscura y como un gestor de proyecto editorial.
 
