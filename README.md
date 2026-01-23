@@ -57,7 +57,11 @@ Crear una experiencia de lectura sorprendente y única, con estructura por nivel
 
 ### Creación del libro
 
-Para generar una nueva novela, abre Codex e introduce el siguiente prompt:
+Para generar una nueva novela, abre Codex 
+```
+codex -s workspace-write -a never --full-auto
+```
+e introduce el siguiente prompt:
 
 #### Prompt Version 1:
 ```markdown
