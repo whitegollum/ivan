@@ -4,7 +4,12 @@ Una novela generada con modelos de lenguaje, inspirada en la energía/ritmo de *
 
 ## 📖 Descripción
 
-Proyecto de generación y redacción de una novela original con voz en 1ª persona, humor negro y mecánicas de “sistema” burocrático. La referencia es **inspiracional** (tono, ritmo, escalada), no un calco.
+Proyecto de diseño y redacción de una novela original con voz en 1ª persona, humor negro y mecánicas de “sistema” burocrático. La referencia es **inspiracional** (tono, ritmo, escalada), no un calco.
+Objetivo final tener un libro nuevo, sorprendente, facilitandoúnicamente unas directrices a alto nivel, que pueda ser construido de manera autonoma, sin intervención humana en menos de 5 horas.
+
+En definitiva, te gusta Mat Diniman y te has quedado con ganas de mas.... veremos i esto es para ti.
+
+Mis disulpas por utilizar el nombre de Matt en vano, no quiero ni por asomo sustituirle, o si quiera insinuar que la IAGen puede hacerle sombra. Esto no es maas que un triste experimento de un ingeniero frustrado.
 
 ## 🎯 Objetivo
 
